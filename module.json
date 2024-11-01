@@ -1,7 +1,13 @@
 {
   "id": "alexs-wod-ru-l10n",
   "title": "Alex's WOD RU L10n",
-  "version": "1.0.0",
+  "description": "This module provides awesome features for Foundry VTT.",
+  "authors": [
+    {
+      "name": "Alex M.",
+      "url": "https://github.com/Alex-M-B95"
+    }
+  ],
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -32,5 +38,10 @@
     "hotReload": {
       "extensions": ["json", "css"]
     }
-  }
+  },
+  "version": "1.0.0",
+  "download": "https://github.com/Alex-M-B95/fvtt-wod-ru-l10n/archive/refs/tags/1.0.0.zip",
+  "url": "https://github.com/Alex-M-B95/fvtt-wod-ru-l10n",
+  "bugs": "https://github.com/Alex-M-B95/fvtt-wod-ru-l10n/issues",
+  "manifest": "https://github.com/Alex-M-B95/fvtt-wod-ru-l10n/raw/main/module.json"
 }
