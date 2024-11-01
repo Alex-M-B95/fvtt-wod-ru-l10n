@@ -1,0 +1,36 @@
+{
+  "id": "alexs-wod-ru-l10n",
+  "title": "Alex's WOD RU L10n",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Core (Russian)",
+      "path": "lang/core-ru.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Vampire (Russian)",
+      "path": "lang/vampire-ru.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Werewolf (Russian)",
+      "path": "lang/werewolf-ru.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Hunter (Russian)",
+      "path": "lang/hunter-ru.json"
+    }
+  ],
+  "flags": {
+    "hotReload": {
+      "extensions": ["json", "css"]
+    }
+  }
+}

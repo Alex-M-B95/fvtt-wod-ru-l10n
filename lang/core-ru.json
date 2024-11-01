@@ -1,0 +1,109 @@
+{
+    "TYPES": {
+        "Item": {
+            "gift": "Дар"
+        }
+    },
+
+    "WOD5E": {
+        "Submit": "Отправить",
+
+        "OpenSheet": "Открыть лист",
+        "RemoveFromGroup": "Удалить из групы",
+        "NoGroupMembers": "Нету персонажей в группе",
+
+        "Bonus": {
+            "ActiveWhen": "Активен когда",
+            "Always": "Всегда",
+            "Never": "Никогда",
+            "IfEquals": "Если равно",
+            "Path": "Путь",
+            "PathsSeparatedBySemicolons": "Пути разделённые ;",
+            "DisplayWhenInactive": "Показать когда неактивно",
+            "Unless": "Пока не",
+            "PathToCheck": "Путь для проверки",
+            "ValueToCheck": "Значение для проверки",
+            "IfPathIs": "Если путь равен"
+        },
+
+        "SPC": {
+            "Physical": "Физический"
+        },
+
+        "ItemsList": {
+            "Label": "Метка",
+            "_SelectFeature": ""
+        },
+
+        "Chat": {
+            "RollingWillpower": "Бросок Воли",
+            "Rolling": "Бросок",
+            "_RollWillpower": "",
+            "WillpowerReroll": "Переброс за Волю",
+            "_WillpowerFullTitle": "",
+            "WillpowerFull": "Воля исчерпана, нельзя нанести больше урона Воле.",
+            "_WillpowerDamage": "",
+            "_HasReceivedWillpowerDamage": "{actor} {willpowerDamage}"
+        },
+
+        "Settings": {
+            "_SaveChanges": "",
+
+            "_Modifications": "",
+            "_Custom": "",
+
+            "_Rename": "",
+            "_Hidden": "",
+
+            "_AddAttributeModification": "",
+            "_AddSkillModification": "",
+            "_AddCustomAttribute": "",
+            "_AddCustomSkill": "",
+
+            "_AttributeType": "",
+            "_SkillType": "",
+
+            "_WorldVersion": "",
+            "_WorldVersionHint": "",
+
+            "_DarkTheme": "",
+            "_DarkThemeHint": "",
+
+            "_ActorBanner": "",
+            "_ActorBannerHint": "",
+
+            "_AutomationSettings": "",
+            "_AutomationSettingsHint": "",
+
+            "_DisableAutomation": "",
+            "_DisableAutomationHint": "",
+
+            "_AutomateWillpower": "",
+            "_AutomateWillpowerHint": "",
+
+            "_AutomateHunger": "",
+            "_AutomateHungerHint": "",
+
+            "_AutomateOblivion": "",
+            "_AutomateOblivionHint": "",
+
+            "_AutomateRage": "",
+            "_AutomateRageHint": "",
+
+            "_StorytellerMenu": "",
+            "_StorytellerMenuHint": "",
+
+            "_ModifiedAttributes": "",
+            "_ModifiedAttributesHint": "",
+
+            "_ModifiedSkills": "",
+            "_ModifiedSkillsHint": "",
+
+            "_CustomAttributes": "",
+            "_CustomAttributesHint": "",
+
+            "_CustomSkills": "",
+            "_CustomSkillsHint": ""
+        }
+    }
+}
