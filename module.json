@@ -1,7 +1,7 @@
 {
   "id": "alexs-wod-ru-l10n",
   "title": "Alex's WOD RU L10n",
-  "description": "This module provides awesome features for Foundry VTT.",
+  "description": "This module provides missing localization to Russian for World of Darkness 5e",
   "authors": [
     {
       "name": "Alex M.",
@@ -39,8 +39,8 @@
       "extensions": ["json", "css"]
     }
   },
-  "version": "1.0.0",
-  "download": "https://github.com/Alex-M-B95/fvtt-wod-ru-l10n/archive/refs/tags/1.0.0.zip",
+  "version": "1.0.1",
+  "download": "https://github.com/Alex-M-B95/fvtt-wod-ru-l10n/archive/refs/tags/1.0.1.zip",
   "url": "https://github.com/Alex-M-B95/fvtt-wod-ru-l10n",
   "bugs": "https://github.com/Alex-M-B95/fvtt-wod-ru-l10n/issues",
   "manifest": "https://github.com/Alex-M-B95/fvtt-wod-ru-l10n/raw/main/module.json"

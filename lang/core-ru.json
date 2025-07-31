@@ -1,109 +1,108 @@
 {
-    "TYPES": {
-        "Item": {
-            "gift": "Дар"
-        }
-    },
-
     "WOD5E": {
+        "GamePaused": "Игра на паузе",
         "Submit": "Отправить",
 
-        "OpenSheet": "Открыть лист",
-        "RemoveFromGroup": "Удалить из групы",
-        "NoGroupMembers": "Нету персонажей в группе",
-
-        "Bonus": {
-            "ActiveWhen": "Активен когда",
-            "Always": "Всегда",
-            "Never": "Никогда",
-            "IfEquals": "Если равно",
-            "Path": "Путь",
-            "PathsSeparatedBySemicolons": "Пути разделённые ;",
-            "DisplayWhenInactive": "Показать когда неактивно",
-            "Unless": "Пока не",
-            "PathToCheck": "Путь для проверки",
-            "ValueToCheck": "Значение для проверки",
-            "IfPathIs": "Если путь равен"
+        "Modifier": {
+            "FlatModifier": "Модификатор",
+            "FlatModifierSource": "Источник модификатора",
+            "Mode": "Режим",
+            "RemoveEffect": "Удалить эффект",
+            "Selectors": "Применить к"
         },
-
-        "SPC": {
-            "Physical": "Физический"
-        },
-
-        "ItemsList": {
-            "Label": "Метка",
-            "_SelectFeature": ""
-        },
-
-        "Chat": {
-            "RollingWillpower": "Бросок Воли",
-            "Rolling": "Бросок",
-            "_RollWillpower": "",
-            "WillpowerReroll": "Переброс за Волю",
-            "_WillpowerFullTitle": "",
-            "WillpowerFull": "Воля исчерпана, нельзя нанести больше урона Воле.",
-            "_WillpowerDamage": "",
-            "_HasReceivedWillpowerDamage": "{actor} {willpowerDamage}"
-        },
-
         "Settings": {
-            "_SaveChanges": "",
-
-            "_Modifications": "",
-            "_Custom": "",
-
-            "_Rename": "",
-            "_Hidden": "",
-
-            "_AddAttributeModification": "",
-            "_AddSkillModification": "",
-            "_AddCustomAttribute": "",
-            "_AddCustomSkill": "",
-
-            "_AttributeType": "",
-            "_SkillType": "",
-
-            "_WorldVersion": "",
-            "_WorldVersionHint": "",
-
-            "_DarkTheme": "",
-            "_DarkThemeHint": "",
-
-            "_ActorBanner": "",
+            "ActorBackgroundOverride": "Стандартный фон актёра",
+            "_ActorBackgroundOverrideHint": "",
+            "ActorBanner": "Включить банер с типом персонажа",
             "_ActorBannerHint": "",
-
-            "_AutomationSettings": "",
-            "_AutomationSettingsHint": "",
-
-            "_DisableAutomation": "",
-            "_DisableAutomationHint": "",
-
-            "_AutomateWillpower": "",
-            "_AutomateWillpowerHint": "",
-
+            "ActorHeaderOverride": "Стандартный заголовок актёра",
+            "_ActorHeaderOverrideHint": "",
+            "_AddAttributeModification": "",
+            "_AddCustomAttribute": "",
+            "_AddCustomDiscipline": "",
+            "_AddCustomEdge": "",
+            "_AddCustomGift": "",
+            "_AddCustomSkill": "",
+            "_AddDisciplineModification": "",
+            "_AddEdgeModification": "",
+            "_AddGiftModification": "",
+            "_AddSkillModification": "",
+            "_All": "",
+            "_AttributeType": "",
+            "_AutoCollapseDescriptions": "",
+            "_AutoCollapseDescriptionsHint": "",
             "_AutomateHunger": "",
             "_AutomateHungerHint": "",
-
             "_AutomateOblivion": "",
             "_AutomateOblivionHint": "",
-
             "_AutomateRage": "",
             "_AutomateRageHint": "",
-
-            "_StorytellerMenu": "",
-            "_StorytellerMenuHint": "",
-
-            "_ModifiedAttributes": "",
-            "_ModifiedAttributesHint": "",
-
-            "_ModifiedSkills": "",
-            "_ModifiedSkillsHint": "",
-
+            "_AutomateWillpower": "",
+            "_AutomateWillpowerHint": "",
+            "_AutomationSettings": "",
+            "_AutomationSettingsHint": "",
+            "_ColorScheme": "",
+            "_ColorSchemeDark": "",
+            "_ColorSchemeDefault": "",
+            "_ColorSchemeHint": "",
+            "_ColorSchemeHunter": "",
+            "_ColorSchemeLight": "",
+            "_ColorSchemeVampire": "",
+            "_ColorSchemeWerewolf": "",
+            "_Custom": "",
             "_CustomAttributes": "",
             "_CustomAttributesHint": "",
-
+            "_CustomDisciplines": "",
+            "_CustomDisciplinesHint": "",
+            "_CustomEdges": "",
+            "_CustomEdgesHint": "",
+            "_CustomGifts": "",
+            "_CustomGiftsHint": "",
             "_CustomSkills": "",
-            "_CustomSkillsHint": ""
+            "_CustomSkillsHint": "",
+            "_Default": "",
+            "_DisableAutomation": "",
+            "_DisableAutomationHint": "",
+            "_DisableVampireFont": "",
+            "_DisableVampireFontHint": "",
+            "_GainXpIconOverride": "",
+            "_GainXpIconOverrideHint": "",
+            "_Hidden": "",
+            "_Modifications": "",
+            "_ModifiedAttributes": "",
+            "_ModifiedAttributesHint": "",
+            "_ModifiedDisciplines": "",
+            "_ModifiedDisciplinesHint": "",
+            "_ModifiedEdges": "",
+            "_ModifiedEdgesHint": "",
+            "_ModifiedGifts": "",
+            "_ModifiedGiftsHint": "",
+            "_ModifiedSkills": "",
+            "_ModifiedSkillsHint": "",
+            "_NeutralXpIconOverride": "",
+            "_NeutralXpIconOverrideHint": "",
+            "_None": "",
+            "_Rename": "",
+            "_SaveChanges": "",
+            "_SkillType": "",
+            "_SortDefAlphabetically": "",
+            "_SortDefAlphabeticallyHint": "",
+            "_SpendXpIconOverride": "",
+            "_SpendXpIconOverrideHint": "",
+            "_SplatColorsHint": "",
+            "_SplatColorsMenu": "",
+            "_StorytellerMenu": "",
+            "_StorytellerMenuHint": "",
+            "_StringBaseColor": "",
+            "_StringPrimaryColor": "",
+            "_StringSecondaryColor": "",
+            "_StringStyling": "",
+            "_StringTertiaryColor": "",
+            "_WorldVersion": "",
+            "_WorldVersionHint": ""
+        },
+        "SkillsList": {
+            "AnimalKen": "Дрессировка"
         }
     }
 }
